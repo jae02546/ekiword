@@ -1,1 +1,18 @@
-
+[
+  {
+    "startDate": "9999-12-31T23:59:59.9999999",
+    "folder": "data005"
+  },
+  {
+    "startDate": "2022-08-13T12:12:00",
+    "folder": "dataTest"
+  },
+  {
+    "startDate": "2022-06-09T18:35:00",
+    "folder": "data003"
+  },
+  {
+    "startDate": "2022-04-01T12:00:00",
+    "folder": "data001"
+  }
+]
